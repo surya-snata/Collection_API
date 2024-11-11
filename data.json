@@ -37,5 +37,23 @@
       "title": "Creativity",
       "completed": true
     }
+  ],
+  "books": [
+    {
+      "name": "Psychology of Money",
+      "author": "Morgan Housel"
+    },
+    {
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki"
+    },
+    {
+      "name": "The Alchemist",
+      "author": "Paulo Coelho"
+    },
+    {
+      "name": "Atomic Habits",
+      "author": "James Clear"
+    }
   ]
 }
